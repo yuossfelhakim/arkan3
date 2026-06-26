@@ -1,0 +1,12 @@
+{
+  "name": "Arkan Transport",
+  "description": "Leading platform for employee transportation services and bus rentals for companies and factories in Egypt with live tracking, pricing, and booking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
