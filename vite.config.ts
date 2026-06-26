@@ -3,6 +3,7 @@ import path from "path";
 import { defineConfig } from "vite";
 
 export default defineConfig({
+  base: "/arkan3/",
   plugins: [react()],
   server: {
     port: 3000,
